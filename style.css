@@ -17,3 +17,9 @@ body > #container {
 legend {
     font-weight: bold;
 }
+
+.img {
+    width: 100px;
+    height: auto;
+}
+
