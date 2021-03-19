@@ -23,3 +23,16 @@ legend {
     height: auto;
 }
 
+footer {
+    clear: both;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    min-height: 25px
+}
